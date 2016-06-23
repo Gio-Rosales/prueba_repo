@@ -19,3 +19,7 @@ Route::group(['prefix'=>'admin'], function(){
 	Route::resource('usuario','UsuariosController');
 });
 
+
+
+
+
